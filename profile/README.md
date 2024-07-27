@@ -1,3 +1,5 @@
+** THIS REPO HAS BEEN ARCHIVED, HYPRLAND IS NOT AVAILABLE IN OFFICIAL DEBIAN SID REPOS**
+
 1. This is **NOT** an official repo of Hyprland.
 2. It works only on Debian Unstable (Sid). There's a chance that it works on other distros but it hasn't been tested.
 3. Debian repo is server from [this GitHub repository](https://github.com/hyprland-debian/hyprland-debian.github.io)
